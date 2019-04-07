@@ -462,6 +462,8 @@ h1, h2, h3, h4, h5, h6, p, a, ul {
 	font-weight: normal;
 }
 
+
+
 /* Grid Layout */
 
 *, *:before, *:after {
@@ -675,7 +677,6 @@ img{
 
 .introducao h2{
   text-transform: uppercase;
-  font-family: "Pt Serif", Times, serif;
   font-size: 36px;
   line-height: 42px;
 }
