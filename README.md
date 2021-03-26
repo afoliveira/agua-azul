@@ -1,2 +1,2 @@
 ## Site feito para a Escola Água Azul. Caso queira visualizar o site, basta apenas clicar no link abaixo
-https://afoliveira.github.io/site-agua-azul/.
+https://agua-azul.netlify.app/
